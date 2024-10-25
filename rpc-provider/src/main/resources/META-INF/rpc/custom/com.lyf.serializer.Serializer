@@ -1,0 +1,2 @@
+json=com.lyf.serializer.JsonSerializer
+kryo=com.lyf.serializer.KryoSerializer

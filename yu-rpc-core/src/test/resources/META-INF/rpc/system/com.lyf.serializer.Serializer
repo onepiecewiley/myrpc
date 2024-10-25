@@ -1,0 +1,2 @@
+jdk=com.lyf.serializer.JdkSerializer
+hessian=com.lyf.serializer.HessianSerializer
